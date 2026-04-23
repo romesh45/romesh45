@@ -8,7 +8,7 @@
 
 [![Email](https://img.shields.io/badge/romeshwar.k45@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:romeshwar.k45@gmail.com)
 [![GitHub](https://img.shields.io/badge/github.com/romesh45-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/romesh45)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/romeshwark4504/)
 [![Location](https://img.shields.io/badge/Trichy,%20Tamil%20Nadu,%20India-FF6B6B?style=flat-square&logo=googlemaps&logoColor=white)]()
 
 </div>
