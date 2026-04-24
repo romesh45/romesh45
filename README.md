@@ -44,33 +44,6 @@ profile = {
 
 ---
 
-## 🔨 What I'm Building Right Now
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════════════════╗
-║                                                              ║
-║             Z E N H I R E                                   ║
-║         AI-Powered Hiring Platform                          ║
-║                                                              ║
-║   7 AI Agents · LangGraph · GPT-4o · Qdrant                ║
-║   FastAPI · PostgreSQL · Redis · Kubernetes                 ║
-║                                                              ║
-║            Production SaaS · Private Build                  ║
-║                                                              ║
-╚══════════════════════════════════════════════════════════════╝
-```
-
-> A production-grade, multi-tenant AI SaaS platform —
-> **not a tutorial, not a demo. Built for real deployment.**
-
-> 🔒 Private repository — active build
-
-</div>
-
----
-
 ## 🧠 Technical Skills
 
 ### AI / ML Engineering
@@ -123,21 +96,6 @@ profile = {
 ---
 
 ## 🚀 Projects
-
----
-
-### 🔷 ZenHire — AI Hiring Platform *(Private Build)*
-> Production SaaS · 7 AI Agents · Multi-Tenant · Active Development
-
-An end-to-end AI hiring platform built with LangGraph, FastAPI, Qdrant, and PostgreSQL. Production-grade architecture with async evaluation pipeline, vector memory, and deterministic decision engine.
-
-```
-Python 3.12 · FastAPI · LangGraph · GPT-4o · LiteLLM · Qdrant
-PostgreSQL 16 · Redis 7.2 · Celery · Next.js 14 · TypeScript
-Docker · Kubernetes · Stripe · Resend
-```
-
-> 🔒 Private repository — active build
 
 ---
 
