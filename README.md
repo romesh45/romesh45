@@ -31,42 +31,14 @@
 ```python
 profile = {
     "name"        : "Romeshwar K",
-    "role"        : "AI Systems Engineer · Full-Stack Developer",
+    "role"        : "AI Engineer · Full-Stack Developer",
     "location"    : "Trichy, Tamil Nadu, India",
-    "education"   : "B.Tech Information Technology — CGPA 7.65 | 2022–2026",
+    "education"   : "B.Tech Information Technology — CGPA 7.69 | 2022–2026",
     "college"     : "K. Ramakrishnan College of Engineering (Autonomous)",
-    "building"    : "ZenHire — AI-Powered Hiring Platform 🚀",
     "philosophy"  : "Every system I ship includes a limitations analysis.",
     "open_to"     : ["AI/ML Engineering", "Research Collaboration", "Opportunities"]
 }
 ```
-
----
-
-## 🔨 Currently Building
-
-<div align="center">
-
-```
-╔══════════════════════════════════════════════════╗
-║                                                  ║
-║            Z E N H I R E                        ║
-║        AI-Powered Hiring Platform               ║
-║                                                  ║
-║    Multi-Agent Architecture · Production SaaS   ║
-║    FastAPI · PostgreSQL · Redis · Next.js 14    ║
-║                                                  ║
-║         Private Build · Active Development      ║
-║                                                  ║
-╚══════════════════════════════════════════════════╝
-```
-
-> An end-to-end AI hiring platform — resume intelligence to hiring decisions.
-> Built for real deployment at scale. **Not a tutorial. Not a demo.**
-
-🔒 Private repository — active build
-
-</div>
 
 ---
 
