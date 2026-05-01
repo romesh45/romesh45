@@ -46,6 +46,7 @@ profile = {
 
 | Project | Description | Tech |
 |---|---|---|
+| **[zenhire](https://github.com/romesh45/zenhire)** | AI Candidate Evaluation System that automates technical hiring. Recruiters post jobs, invite candidates, and get structured hire/reject decisions — powered by a 3-agent LangGraph pipeline and a deterministic Decision Engine that scores purely on logic, not LLM guesswork. | Python · FastAPI · LangGraph . PostgreSQL . pgvector . Redis . Next.js 14 . Groq . fastembed . Docker . render . vercel |
 | **[Aura ATS](https://github.com/romesh45/resume-analyzer)** | 4-stage AI resume analysis pipeline — text extraction → skill match → structured feedback. 12 unit tests. REST API. | Python · OpenAI · REST API |
 | **[AI Interview Coach](https://github.com/romesh45/AI-Interview-Coach)** | Resume + JD ingestion → role-specific questions → structured evaluation with improvement guidance. | Python · LangChain · OpenAI |
 | **[EasyWay Logistics](https://github.com/romesh45/easyway-logistics)** | Full-stack freight platform. Multi-constraint matching engine, UPI payments, real-time tracking. | Node.js · MongoDB · JWT |
