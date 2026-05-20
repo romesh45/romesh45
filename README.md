@@ -20,7 +20,7 @@
 
 <div align="center">
 
-### *"I don't just write code — I build systems that think, fail gracefully, and improve."*
+### *"Love your craft enough to suffer for it quietly."*
 
 </div>
 
