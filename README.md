@@ -33,7 +33,7 @@ profile = {
     "name"        : "Romeshwar K",
     "role"        : "AI Engineer · Full-Stack Developer",
     "location"    : "Trichy, Tamil Nadu, India",
-    "education"   : "B.Tech Information Technology — CGPA 7.69 | 2022–2026",
+    "education"   : "B.Tech Information Technology — CGPA 7.70 | 2022–2026",
     "college"     : "K. Ramakrishnan College of Engineering (Autonomous)",
     "philosophy"  : "Every system I ship includes a limitations analysis.",
     "open_to"     : ["AI/ML Engineering", "Research Collaboration", "Opportunities", "AI/ML Intership"]
